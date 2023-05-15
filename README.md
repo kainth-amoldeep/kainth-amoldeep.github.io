@@ -1,5 +1,6 @@
 ![Kainth_Headshot]
 <img align="left" width="400" src="[https://github.com/kainth-amoldeep/kainth-amoldeep.github.io/assets/66103719/7582cb33-4735-45f9-9034-09a624cb1c91]">
+![Kainth_Headshot](https://github.com/kainth-amoldeep/kainth-amoldeep.github.io/assets/66103719/39adcad6-dda5-4592-84e7-52c6c3f3f2c1)
 # AMOLDEEP KAINTH
 920 E 58th Street | Chicago, IL 60637 | 605-786-5657 | akainth@uchicago.edu
 
@@ -42,13 +43,14 @@
 <br/> •	Taught a module in Basics of Bioinformatics and Thermodynamics in Microbiology courses to undergraduate classes
 <br/>
 ## SKILLS
-<br/>
+
 **Computational Biology:** NGS data analysis (ChIP-seq, CUT&RUN, ATAC-seq, RNA-seq, Nanopore long-read seq, PRO-seq, Hi-C, Micro-C); Protein analysis (PyMol, Rosetta, AlphaFold); Image analysis (ImageJ, MATLAB); Coding (Python, Bash); Biostats (R, SPSS, MS Excel)
 <br/> **Molecular Biology:** 3C; NGS for genomics, epigenomics and transcriptomics; Nanopore Long-read seq; RT-qPCR; Tissue culture and genetic manipulations of cells; Immuno- and epi- fluorescence confocal and super-resolution microscopy
 <br/> **Biochemistry:** Heterologous expression of proteins; Affinity, ion-exchange, size exclusion chromatography etc. using AKTA systems; Large scale synthesis and purification of RNA; Characterization by activity and binding assays
 <br/>
 ## PUBLICATIONS
-<br/> •	*Kainth AS, *Haddad GA, Hall JH, Ruthenburg AJ (2023) bioarxiv https://doi.org/10.1101/2022.12.13.520317
+
+ • *Kainth AS, *Haddad GA, Hall JH, Ruthenburg AJ (2023) bioarxiv https://doi.org/10.1101/2022.12.13.520317
 <br/> •	Chowdhary S, Kainth AS, Paracha S, Gross DS, Pincus D (2022) Molecular Cell, 82, 4386-4399
 <br/> •	*Kainth AS, *Chowdhary S, Pincus D, Gross DS (2021) Trends in Cell Biology. doi.org/10.1016/j.tcb.2021.04.004
 <br/> •	Chowdhary S, Kainth AS, Gross DS (2020) Methods 170: 4-16
@@ -59,3 +61,5 @@
 <br/> •	Gross DS, Chowdhary S, Anandhakumar J, Kainth AS (2015) Current Biology 25: R1158-63
 <br/> •	Bhalla A, Kainth AS, Sani RK (2013) Genome Announcement 
 <br/> * Equal contribution
+![Kainth_Headshot](https://github.com/kainth-amoldeep/kainth-amoldeep.github.io/assets/66103719/39adcad6-dda5-4592-84e7-52c6c3f3f2c1)
+
