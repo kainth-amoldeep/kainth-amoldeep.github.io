@@ -4,14 +4,11 @@
 
 ## EDUCATION
 
-**• PhD	LSU-Health | Shreveport, LA, USA | Department of Biochemistry and Molecular Biology	May 2019**
-	<br/> Ike Muslow Pre-doctoral Fellowship
+**• PhD	LSU-Health | Shreveport, LA, USA | Department of Biochemistry and Molecular Biology	May 2019** *Ike Muslow Pre-doctoral Fellowship*
 
-**• MS	Panjab University | Chandigarh, India | Department of Biotechnology	May 2011**
-	<br/> Council of Scientific and Industrial Research-Junior Research Fellowship
+**• MS	Panjab University | Chandigarh, India | Department of Biotechnology	May 2011** *Council of Scientific and Industrial Research-Junior Research Fellowship*
 
-**• BS	Panjab University | Chandigarh, India | Department of Biotechnology	May 2009**
-	<br/> Top ranker in the National Entrance Examination	
+**• BS	Panjab University | Chandigarh, India | Department of Biotechnology	May 2009** *Top ranker in the National Entrance Examination*	
 
 ## RESEARCH AND ANALYSIS EXPERIENCE	
 
