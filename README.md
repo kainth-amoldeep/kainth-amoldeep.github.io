@@ -1,4 +1,3 @@
-![Kainth_Headshot]
 <img align="left" width="400" src="[https://github.com/kainth-amoldeep/kainth-amoldeep.github.io/assets/66103719/7582cb33-4735-45f9-9034-09a624cb1c91]">
 ![Kainth_Headshot](https://github.com/kainth-amoldeep/kainth-amoldeep.github.io/assets/66103719/39adcad6-dda5-4592-84e7-52c6c3f3f2c1)
 # AMOLDEEP KAINTH
@@ -6,13 +5,13 @@
 
 ## EDUCATION
 
-**PhD	LSU-Health | Shreveport, LA, USA | Department of Biochemistry and Molecular Biology	May 2019**
+**• PhD	LSU-Health | Shreveport, LA, USA | Department of Biochemistry and Molecular Biology	May 2019**
 	<br/> Ike Muslow Pre-doctoral Fellowship
 
-**MS	Panjab University | Chandigarh, India | Department of Biotechnology	May 2011**
+**• MS	Panjab University | Chandigarh, India | Department of Biotechnology	May 2011**
 	<br/> Council of Scientific and Industrial Research-Junior Research Fellowship
 
-**BS	Panjab University | Chandigarh, India | Department of Biotechnology	May 2009**
+**• BS	Panjab University | Chandigarh, India | Department of Biotechnology	May 2009**
 	<br/> Top ranker in the National Entrance Examination	
 
 ## RESEARCH AND ANALYSIS EXPERIENCE	
@@ -38,7 +37,7 @@
 <br/>
 <br/>**Dept. of Chemical and Biological Engineering, SDSMT | Rapid City, South Dakota	Sep. 2011 – Dec. 2013**
 <br/> *Research Assistant: Structure-function relationship of thermo-stable enzymes*  
-<br/> •	Computational analyses of the structural basis of thermal stability of commercially relevant enzymes
+ • Computational analyses of the structural basis of thermal stability of commercially relevant enzymes
 <br/> •	Comparative genomics for evolution of thermophilic bacteria
 <br/> •	Taught a module in Basics of Bioinformatics and Thermodynamics in Microbiology courses to undergraduate classes
 <br/>
