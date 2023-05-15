@@ -1,5 +1,4 @@
-<img align="left" width="400" src="[https://github.com/kainth-amoldeep/kainth-amoldeep.github.io/assets/66103719/7582cb33-4735-45f9-9034-09a624cb1c91]">
-![Kainth_Headshot](https://github.com/kainth-amoldeep/kainth-amoldeep.github.io/assets/66103719/39adcad6-dda5-4592-84e7-52c6c3f3f2c1)
+<img align="left" width="400" src="https://github.com/kainth-amoldeep/kainth-amoldeep.github.io/assets/66103719/7582cb33-4735-45f9-9034-09a624cb1c91">
 # AMOLDEEP KAINTH
 920 E 58th Street | Chicago, IL 60637 | 605-786-5657 | akainth@uchicago.edu
 
