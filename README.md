@@ -1,8 +1,8 @@
 ![Kainth_Headshot](https://github.com/kainth-amoldeep/kainth-amoldeep.github.io/assets/66103719/7582cb33-4735-45f9-9034-09a624cb1c91)
-                             #AMOLDEEP KAINTH#
+                             #AMOLDEEP KAINTH
 920 E 58th Street | Chicago, IL 60637 | 605-786-5657 | akainth@uchicago.edu
 
-##EDUCATION##	
+##EDUCATION
 
 **PhD	LSU-Health | Shreveport, LA, USA | Department of Biochemistry and Molecular Biology	May 2019**
 	Ike Muslow Pre-doctoral Fellowship
@@ -13,7 +13,7 @@
 **BS	Panjab University | Chandigarh, India | Department of Biotechnology	May 2009**
 	Top ranker in the National Entrance Examination	
 
-##RESEARCH AND ANALYSIS EXPERIENCE##	
+##RESEARCH AND ANALYSIS EXPERIENCE	
 
 **Dept. of Molecular Genetics and Cell Biology, University of Chicago | Chicago, IL	Nov. 2019 – Present**
 *Post-doctoral Scholar: RNA-chromatin interactions in chromatin architecture and gene expression*
@@ -40,13 +40,13 @@
 •	Comparative genomics for evolution of thermophilic bacteria
 •	Taught a module in Basics of Bioinformatics and Thermodynamics in Microbiology courses to undergraduate classes
 
-##SKILLS##	
+##SKILLS
 
 **Computational Biology:** NGS data analysis (ChIP-seq, CUT&RUN, ATAC-seq, RNA-seq, Nanopore long-read seq, PRO-seq, Hi-C, Micro-C); Protein analysis (PyMol, Rosetta, AlphaFold); Image analysis (ImageJ, MATLAB); Coding (Python, Bash); Biostats (R, SPSS, MS Excel)
 **Molecular Biology:** 3C; NGS for genomics, epigenomics and transcriptomics; Nanopore Long-read seq; RT-qPCR; Tissue culture and genetic manipulations of cells; Immuno- and epi- fluorescence confocal and super-resolution microscopy
 **Biochemistry:** Heterologous expression of proteins; Affinity, ion-exchange, size exclusion chromatography etc. using AKTA systems; Large scale synthesis and purification of RNA; Characterization by activity and binding assays
 
-##PUBLICATIONS##	
+##PUBLICATIONS
 •	*Kainth AS, *Haddad GA, Hall JH, Ruthenburg AJ (2023) bioarxiv https://doi.org/10.1101/2022.12.13.520317
 •	Chowdhary S, Kainth AS, Paracha S, Gross DS, Pincus D (2022) Molecular Cell, 82, 4386-4399
 •	*Kainth AS, *Chowdhary S, Pincus D, Gross DS (2021) Trends in Cell Biology. doi.org/10.1016/j.tcb.2021.04.004
