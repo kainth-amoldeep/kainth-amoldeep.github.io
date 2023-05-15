@@ -59,5 +59,3 @@
 <br/> •	Gross DS, Chowdhary S, Anandhakumar J, Kainth AS (2015) Current Biology 25: R1158-63
 <br/> •	Bhalla A, Kainth AS, Sani RK (2013) Genome Announcement 
 <br/> * Equal contribution
-![Kainth_Headshot](https://github.com/kainth-amoldeep/kainth-amoldeep.github.io/assets/66103719/39adcad6-dda5-4592-84e7-52c6c3f3f2c1)
-
